@@ -1,0 +1,9 @@
+{
+  "name": "TradeSea",
+  "short_name": "TradeSea",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#6d5dfc",
+  "icons": []
+}
